@@ -1,0 +1,4 @@
+device: cpu
+seed: 47
+project_path: /Users/romanknazev/Desktop/voice_biometrics
+save_path: save/sample

@@ -1,0 +1,3 @@
+- initialize: config/initialize/cpu_47.yml
+- transformation: config/transformation/trans_sample.yml
+- processing: config/processing/processing_sample.yml

@@ -1,0 +1,10 @@
+datasets:
+  - type: dir
+    root_path: 
+    freq: 16000
+  - type: txt
+    path_to_file: 
+    freq: 16000
+  - type: deeplake
+    root_path:
+    freq: 16000
